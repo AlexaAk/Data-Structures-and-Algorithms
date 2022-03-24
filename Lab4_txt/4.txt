@@ -23,7 +23,7 @@ file.close()
 
 file = open('Lab4_txt/2_ans.txt', 'w', encoding='utf-8')
 file.write(text)
-file.close())
+file.close()           )(
 
 print(prev_text)
 print(text)
